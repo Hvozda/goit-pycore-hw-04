@@ -38,7 +38,4 @@ def print_directory_structure(path: Path, prefix: str = ""):
                               
 
 
-<body>
-<h2>exercises<h2>
-<body>
                 

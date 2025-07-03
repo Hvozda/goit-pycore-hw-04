@@ -21,7 +21,4 @@ def get_cats_info(path):
 cats_info = get_cats_info("cats_file.txt")
 print(cats_info)
 
-<body>
-<h2>exercises<h2>
-<body>
 

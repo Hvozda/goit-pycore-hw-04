@@ -63,6 +63,3 @@ def change_contact(args, contacts):
     if __name__ == "__main__":
         main()
 
-<body>
-<h2>exercises<h2>
-<body>

@@ -6,6 +6,3 @@ Sitarama Raju,1000
     total_salary("salaries.txt")
 
 
-<body>
-<h2>exercises<h2>
-<body>

@@ -27,6 +27,3 @@ print("Total salarry:" result[0])
 print("Average salary:", result[1])
 
 
-<body>
-<h2>exercises<h2>
-<body>
